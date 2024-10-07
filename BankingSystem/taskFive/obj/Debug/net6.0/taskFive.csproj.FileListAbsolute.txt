@@ -1,0 +1,15 @@
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/bin/Debug/net6.0/taskFive
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/bin/Debug/net6.0/taskFive.deps.json
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/bin/Debug/net6.0/taskFive.runtimeconfig.json
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/bin/Debug/net6.0/taskFive.dll
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/bin/Debug/net6.0/taskFive.pdb
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.csproj.AssemblyReference.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.AssemblyInfoInputs.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.AssemblyInfo.cs
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.csproj.CoreCompileInputs.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.dll
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/refint/taskFive.dll
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.pdb
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/taskFive.genruntimeconfig.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/taskFive/obj/Debug/net6.0/ref/taskFive.dll

@@ -1,0 +1,15 @@
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/bin/Debug/net6.0/Task4
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/bin/Debug/net6.0/Task4.deps.json
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/bin/Debug/net6.0/Task4.runtimeconfig.json
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/bin/Debug/net6.0/Task4.dll
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/bin/Debug/net6.0/Task4.pdb
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.csproj.AssemblyReference.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.AssemblyInfoInputs.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.AssemblyInfo.cs
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.csproj.CoreCompileInputs.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.dll
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/refint/Task4.dll
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.pdb
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/Task4.genruntimeconfig.cache
+/Users/monilpuri/Desktop/c#data/BankingSystem/Task4/obj/Debug/net6.0/ref/Task4.dll

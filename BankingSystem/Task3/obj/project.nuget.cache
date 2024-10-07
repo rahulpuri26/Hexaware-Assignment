@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+t7lJyPsMH3q4TWu39nL35cN/uDoSAraX7nj0i1aX9SmJt9ZrYUvM2IlA6yoVtkqk+zUdDAf6cJY5VAQQbfyQ==",
+  "success": true,
+  "projectFilePath": "/Users/monilpuri/Desktop/Assignment/BankingSystem/Task3/Task3.csproj",
+  "expectedPackageFiles": [
+    "/Users/monilpuri/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/monilpuri/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/monilpuri/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

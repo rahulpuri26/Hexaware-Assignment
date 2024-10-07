@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{8E98AE8A-B416-491F-9ED2-36B5213D784E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Task6 FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="RestofTasks/BankApp.cs">
+    <Files>
+      <File FileName="RestofTasks/appsettings.json" Line="1" Column="1" />
+      <File FileName="RestofTasks/BankApp.cs" Line="163" Column="9" />
+      <File FileName="RestofTasks/Services/BankServiceProvider.cs" Line="156" Column="88" />
+      <File FileName="RestofTasks/Models/Account.cs" Line="86" Column="37" />
+      <File FileName="RestofTasks/Exceptions/exceptions.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/Bank.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/BankAccount.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/CurrentAccount.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/SavingsAccount.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/SavingsAccount2.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/Transaction.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Models/ZeroBalace.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Repostiry/AccountRepositoryImpl.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Repostiry/Bank.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Repostiry/IAccountRepository.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Services/CustomerServiceProvider.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Services/IBankServiceProvider.cs" Line="1" Column="1" />
+      <File FileName="RestofTasks/Services/ICustomerServiceProvider.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BankingSystem" expanded="True">
+            <Node name="RestofTasks" selected="True">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repostiry" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Task1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
